@@ -263,20 +263,7 @@ JR横浜駅のすぐ近くにあるポムポムプリンカフェ。
 				<coordinates>135.4976168531361,34.70430592762155,0</coordinates>
 			</Point>
 		</Placemark>
-		<GroundOverlay>
-			<name>無題 - イメージ オーバーレイ</name>
-			<color>6bffffff</color>
-			<Icon>
-				<href>https://github.com/Cotton5103/finalpresentation0731/blob/master/japom.png?raw=true</href>
-				<viewBoundScale>0.75</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>45.93200106129981</north>
-				<south>24.92875763254104</south>
-				<east>149.0958250612824</east>
-				<west>122.7207909533562</west>
-			</LatLonBox>
-		</GroundOverlay>
+		
 	</Folder>
 </Document>
 </kml>
